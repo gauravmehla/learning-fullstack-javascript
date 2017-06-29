@@ -1,6 +1,6 @@
 ![Imgur](http://i.imgur.com/Hn9bkAw.jpg)
 
-This is a javascript learning course. Link to that course is [Lynda-FullStackJavascript](https://www.lynda.com/Express-js-tutorials/Learning-Full-Stack-JavaScript-Development-MongoDB-Node-React/533304-2.html)
+This is a javascript learning course. To watch this course, click  [Lynda-FullStackJavascript](https://www.lynda.com/Express-js-tutorials/Learning-Full-Stack-JavaScript-Development-MongoDB-Node-React/533304-2.html)
 
 # Technology Stack
   * ReactJS
