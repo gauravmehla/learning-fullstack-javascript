@@ -15,6 +15,17 @@ This is a javascript learning course. Link to that course is [Lynda-FullStackJav
 
      `git clone https://github.com/gauravmehla/learning-fullstack-javascript.git`
      
-- Then run this command :
+- Then run this command to install all npm dependencies:
 
-     `npm install && npm start`
+     `npm install`
+     
+- In order to run dev server : 
+
+     `npm run dev`
+     
+- And to run express server :
+
+     `npm start`
+     
+     
+ *For more scripts* : Check scripts in [package.json](https://github.com/gauravmehla/learning-fullstack-javascript/blob/master/package.json)
