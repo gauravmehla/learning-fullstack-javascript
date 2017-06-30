@@ -3,11 +3,11 @@
 This is a javascript learning course. To watch this course, click  [Lynda-FullStackJavascript](https://www.lynda.com/Express-js-tutorials/Learning-Full-Stack-JavaScript-Development-MongoDB-Node-React/533304-2.html)
 
 # Technology Stack
-  * ReactJS
-  * Sass
-  * Webpack
-  * Express
-  * MongoDB
+  * [ReactJS](https://facebook.github.io/react/)
+  * [Sass](https://github.com/sass/node-sass-middleware)
+  * [Webpack](https://webpack.github.io/)
+  * [Express](https://expressjs.com/)
+  * [MongoDB](https://www.mongodb.com/)
 
 # Usage
 
